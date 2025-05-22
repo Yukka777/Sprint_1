@@ -1,6 +1,6 @@
 class Tester:
 
-    def __init__(self, name): #Исправлено: __init__ - это конструктор
+    def __init__(self, name): # Исправлено: __init__ - это конструктор
         self.name = name        # Исправлено: сохраняем имя в атрибуте объекта
         self.deadline = True    # Исправлено: устанавливаем deadline по умолчанию True
 
